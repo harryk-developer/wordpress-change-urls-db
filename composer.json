@@ -10,7 +10,6 @@
             "email": "harryk.developer@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require-dev": {
     },
     "require": {
