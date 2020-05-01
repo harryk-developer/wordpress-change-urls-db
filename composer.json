@@ -1,0 +1,23 @@
+{
+    "name": "harrykdeveloper/wordpress-change-urls-db",
+    "description": "Wordpress change urls in the Database during migration of old domain to new domain.",
+    "keywords": ["wordpress", "wordpress change urls", "migrate urls"],
+    "type": "library",
+    "authors": [
+        {
+            "name": "Harry Karwal",
+            "email": "harryk.developer@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require-dev": {
+    },
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "harrykdeveloper\\Wordpress\\": "src/"
+        }
+    }
+}
