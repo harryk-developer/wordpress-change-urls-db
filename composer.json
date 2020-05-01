@@ -10,6 +10,7 @@
             "email": "harryk.developer@gmail.com"
         }
     ],
+    "license": "GPL",
     "require-dev": {
     },
     "require": {
