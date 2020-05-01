@@ -3,7 +3,7 @@
     "description": "Wordpress change urls in the Database during migration of old domain to new domain.",
     "keywords": ["wordpress", "wordpress change urls", "migrate urls"],
     "type": "library",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "Harry Karwal",
